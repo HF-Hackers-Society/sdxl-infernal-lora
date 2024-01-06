@@ -1,46 +1,31 @@
-version: '3.8'
-
 # https://hub.docker.com/r/ashleykza/stable-diffusion-webui
 # https://github.com/ashleykleynhans/stable-diffusion-docker#running-locally
-
+version: '3.9'
 services:
   web:
-    image: 'ashleykza/stable-diffusion-webui'
-    # https://docs.docker.com/compose/gpu-support/
-    deploy:
-      resources:
-        reservations:
-          devices:
-            - driver: nvidia
-              count: all
-              capabilities: [gpu]
-    volumes:
-      - type: volume
-        source: display
-        target: '/tmp/.X11-unix'
-        volume:
-          nocopy: true
-      - type: bind
-        source: './dataset'
-        target: '/dataset' # Don't place it in the 'workspace' directory or all the configs will synced into it.
+    image: ashleykza/stable-diffusion-webui
+    container_name: stable-diffusion-webui
     ports:
       - 3000:3001
       - 3010:3011
       - 3020:3021
       - 6006:6066
       - 8888:8888
+    environment:
+      JUPYTER_PASSWORD: 'Jup1t3R!'
+      ENABLE_TENSORBOARD: 1
+      #DISPLAY: ':99'
+      #DISABLE_AUTOLAUNCH: 1
+    volumes:
+      - type: bind
+        source: './dataset'
+        target: '/dataset'
     working_dir: '/workspace'
     restart: unless-stopped
-    environment:
-      JUPYTER_PASSWORD: 'Jup1t3R!' # It needs a password!
-      DISABLE_AUTOLAUNCH: 0 # Need the services enabled b/c we aren't in a web environment that will spin them up at the press of a button
-      ENABLE_TENSORBOARD: 1
-      # Avoid TKinter errors so Kohya actually does things
-      # https://stackoverflow.com/questions/49169055/docker-tkinter-tclerror-couldnt-connect-to-display/49229627#49229627
-      # https://askubuntu.com/questions/213678/how-to-install-x11-xorg
-      # apt-get -y install xorg openbox
-      #DISPLAY: ':0'
-      #MPLBACKEND: 'Agg'
-
-volumes:
-  display:
+    deploy:
+      resources:
+        reservations:
+          devices:
+          - driver: nvidia
+            device_ids: ['0']
+            capabilities: [gpu]

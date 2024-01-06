@@ -1,0 +1,413 @@
+{
+    "trigger": "infernal",
+    "images": [
+        {
+            "source": "artstation",
+            "url": "https://cdnb.artstation.com/p/assets/images/images/044/703/691/4k/taregh-saber-gumersizek-tsaber-09.jpg",
+            "artist": "https://www.artstation.com/tdsaber",
+            "license": "n/a",
+            "class": "demonlord",
+            "keywords": [
+                "front", "frontal"
+            ],
+            "watermark": true,
+            "fill": "none"
+        },
+        {
+            "source": "artstation",
+            "url": "https://cdnb.artstation.com/p/assets/images/images/044/703/829/4k/taregh-saber-gumersizek-tsaber-10.jpg",
+            "artist": "https://www.artstation.com/tdsaber",
+            "license": "n/a",
+            "class": "demonlord",
+            "keywords": [
+                "front", "frontal"
+            ],
+            "watermark": true,
+            "fill": "none"
+        },
+        {
+            "source": "artstation",
+            "url": "https://cdnb.artstation.com/p/assets/images/images/044/703/883/4k/taregh-saber-gumersizek-tsaber-07.jpg",
+            "artist": "https://www.artstation.com/tdsaber",
+            "license": "n/a",
+            "class": "demonlord",
+            "keywords": [
+                "side", "right"
+            ],
+            "watermark": true,
+            "fill": "none"
+        },
+        {
+            "source": "artstation",
+            "url": "https://cdna.artstation.com/p/assets/images/images/044/703/940/4k/taregh-saber-gumersizek-tsaber-08.jpg",
+            "artist": "https://www.artstation.com/tdsaber",
+            "license": "n/a",
+            "class": "demonlord",
+            "keywords": [
+                "back", "rear"
+            ],
+            "watermark": true,
+            "fill": "none"
+        },
+        {
+            "source": "artstation",
+            "url": "https://cdnb.artstation.com/p/assets/images/images/044/703/965/4k/taregh-saber-gumersizek-tsaber-06.jpg",
+            "artist": "https://www.artstation.com/tdsaber",
+            "license": "n/a",
+            "class": "demonlord",
+            "keywords": [
+                "side", "left"
+            ],
+            "watermark": true,
+            "fill": "none"
+        },
+        {
+            "source": "artstation",
+            "url": "https://cdna.artstation.com/p/assets/images/images/004/803/256/large/chris-cold-hellgate.jpg",
+            "artist": "https://www.artstation.com/chriscold",
+            "license": "n/a",
+            "class": "landscape",
+            "keywords": [
+                "spikey"
+            ],
+            "watermark": false,
+            "fill": "none"
+        },
+        {
+            "source": "artstation",
+            "url": "https://cdnb.artstation.com/p/assets/images/images/034/426/831/large/mateo-andrijanic-finalver-v001.jpg",
+            "artist": "https://www.artstation.com/lavkrstitelj",
+            "license": "n/a",
+            "class": "house",
+            "keywords": [
+                "farm"
+            ],
+            "watermark": false,
+            "fill": "none"
+        },
+        {
+            "source": "artstation",
+            "url": "https://cdna.artstation.com/p/assets/images/images/005/390/250/large/antonio-j-manzanedo-mago-joven-manzanedo.jpg",
+            "artist": "https://www.artstation.com/ajmanzanedo",
+            "license": "n/a",
+            "class": "mage",
+            "keywords": [],
+            "watermark": true,
+            "fill": "none"
+        },
+        {
+            "source": "artstation",
+            "url": "https://cdnb.artstation.com/p/assets/images/images/015/886/049/large/antonio-j-manzanedo-demon-manzanedo3.jpg",
+            "artist": "https://www.artstation.com/ajmanzanedo",
+            "license": "n/a",
+            "class": "demon",
+            "keywords": [],
+            "watermark": true,
+            "fill": "none"
+        },
+        {
+            "source": "artstation",
+            "url": "https://cdnb.artstation.com/p/assets/images/images/006/254/061/large/antonio-j-manzanedo-demons-manzanedo.jpg",
+            "artist": "https://www.artstation.com/ajmanzanedo",
+            "license": "n/a",
+            "class": "demon",
+            "keywords": [],
+            "watermark": true,
+            "fill": "none"
+        },
+        {
+            "source": "artstation",
+            "url": "https://cdnb.artstation.com/p/assets/images/images/015/782/959/large/antonio-j-manzanedo-demon-manzanedo.jpg",
+            "artist": "https://www.artstation.com/ajmanzanedo",
+            "license": "n/a",
+            "class": "demon",
+            "keywords": [],
+            "watermark": true,
+            "fill": "none"
+        },
+        {
+            "source": "artstation",
+            "url": "https://cdnb.artstation.com/p/assets/images/images/062/345/501/large/antonio-j-manzanedo-demon-manzanedo-color.jpg",
+            "artist": "https://www.artstation.com/ajmanzanedo",
+            "license": "n/a",
+            "class": "demon",
+            "keywords": [],
+            "watermark": true,
+            "fill": "none"
+        },
+        {
+            "source": "artstation",
+            "url": "https://cdnb.artstation.com/p/assets/images/images/013/400/025/large/antonio-j-manzanedo-red-dragon-manzanedo3.jpg",
+            "artist": "https://www.artstation.com/ajmanzanedo",
+            "license": "n/a",
+            "class": "dragon",
+            "keywords": [],
+            "watermark": true,
+            "fill": "none"
+        },
+        {
+            "source": "artstation",
+            "url": "https://cdna.artstation.com/p/assets/images/images/010/070/262/large/antonio-j-manzanedo-red-dragon-manzanedo.jpg",
+            "artist": "https://www.artstation.com/ajmanzanedo",
+            "license": "n/a",
+            "class": "dragon",
+            "keywords": [],
+            "watermark": true,
+            "fill": "none"
+        },
+        {
+            "source": "artstation",
+            "url": "https://cdnb.artstation.com/p/assets/images/images/008/006/123/large/antonio-j-manzanedo-red-dragon-2.jpg",
+            "artist": "https://www.artstation.com/ajmanzanedo",
+            "license": "n/a",
+            "class": "dragon",
+            "keywords": [],
+            "watermark": true,
+            "fill": "none"
+        },
+        {
+            "source": "artstation",
+            "url": "https://cdnb.artstation.com/p/assets/images/images/020/129/597/large/antonio-j-manzanedo-dragon-fire-manzanedo-3.jpg",
+            "artist": "https://www.artstation.com/ajmanzanedo",
+            "license": "n/a",
+            "class": "dragon",
+            "keywords": [],
+            "watermark": true,
+            "fill": "none"
+        },
+        {
+            "source": "artstation",
+            "url": "https://cdnb.artstation.com/p/assets/images/images/065/661/007/large/antonio-j-manzanedo-red-dragon-manzanedo.jpg",
+            "artist": "https://www.artstation.com/ajmanzanedo",
+            "license": "n/a",
+            "class": "dragon",
+            "keywords": [],
+            "watermark": true,
+            "fill": "none"
+        },
+        {
+            "source": "artstation",
+            "url": "https://cdna.artstation.com/p/assets/images/images/029/952/674/large/antonio-j-manzanedo-spitfire-lagac-manzanedo.jpg",
+            "artist": "https://www.artstation.com/ajmanzanedo",
+            "license": "n/a",
+            "class": "dragon",
+            "keywords": [],
+            "watermark": true,
+            "fill": "none"
+        },
+        {
+            "source": "artstation",
+            "url": "https://cdna.artstation.com/p/assets/images/images/060/222/952/large/antonio-j-manzanedo-dragon-rider-manzanedo-2.jpg",
+            "artist": "https://www.artstation.com/ajmanzanedo",
+            "license": "n/a",
+            "class": "dragon",
+            "keywords": [
+                "rider"
+            ],
+            "watermark": true,
+            "fill": "none"
+        },
+        {
+            "source": "artstation",
+            "url": "https://cdnb.artstation.com/p/assets/images/images/060/222/957/large/antonio-j-manzanedo-dragon-rider-detail-manzanedo.jpg",
+            "artist": "https://www.artstation.com/ajmanzanedo",
+            "license": "n/a",
+            "class": "dragon",
+            "keywords": [
+                "rider"
+            ],
+            "watermark": true,
+            "fill": "none"
+        },
+        {
+            "source": "artstation",
+            "url": "https://cdna.artstation.com/p/assets/images/images/023/966/026/large/antonio-j-manzanedo-dragon-rider-manzanedo.jpg",
+            "artist": "https://www.artstation.com/ajmanzanedo",
+            "license": "n/a",
+            "class": "dragon",
+            "keywords": [
+                "rider"
+            ],
+            "watermark": true,
+            "fill": "none"
+        },
+        {
+            "source": "artstation",
+            "url": "https://cdnb.artstation.com/p/assets/images/images/024/242/767/large/antonio-j-manzanedo-demon-dragon-rider-manzanedo.jpg",
+            "artist": "https://www.artstation.com/ajmanzanedo",
+            "license": "n/a",
+            "class": "dragon",
+            "keywords": [
+                "rider"
+            ],
+            "watermark": true,
+            "fill": "none"
+        },
+        {
+            "source": "artstation",
+            "url": "https://cdnb.artstation.com/p/assets/images/images/025/288/405/large/antonio-j-manzanedo-blood-thirsty-demon-manzanedo-3.jpg",
+            "artist": "https://www.artstation.com/ajmanzanedo",
+            "license": "n/a",
+            "class": "demon",
+            "keywords": [],
+            "watermark": true,
+            "fill": "none"
+        },
+        {
+            "source": "artstation",
+            "url": "https://cdna.artstation.com/p/assets/images/images/006/110/138/large/antonio-j-manzanedo-demonio-manzanedo.jpg",
+            "artist": "https://www.artstation.com/ajmanzanedo",
+            "license": "n/a",
+            "class": "demon",
+            "keywords": [
+                "watercolor"
+            ],
+            "watermark": true,
+            "fill": "none"
+        },
+        {
+            "source": "artstation",
+            "url": "https://cdna.artstation.com/p/assets/images/images/020/779/032/large/antonio-j-manzanedo-creature-study-manzanedo-version-2-2.jpg",
+            "artist": "https://www.artstation.com/ajmanzanedo",
+            "license": "n/a",
+            "class": "demon",
+            "keywords": [
+                "sorcerer"
+            ],
+            "watermark": true,
+            "fill": "none"
+        },
+        {
+            "source": "artstation",
+            "url": "https://cdna.artstation.com/p/assets/images/images/020/779/046/large/antonio-j-manzanedo-creature-study-manzanedo.jpg",
+            "artist": "https://www.artstation.com/ajmanzanedo",
+            "license": "n/a",
+            "class": "demon",
+            "keywords": [
+                "sorcerer"
+            ],
+            "watermark": true,
+            "fill": "none"
+        },
+        {
+            "source": "artstation",
+            "url": "https://cdna.artstation.com/p/assets/images/images/062/534/284/large/antonio-j-manzanedo-demonio-manzanedo-final-6.jpg",
+            "artist": "https://www.artstation.com/ajmanzanedo",
+            "license": "n/a",
+            "class": "demon",
+            "keywords": [],
+            "watermark": true,
+            "fill": "none"
+        },
+        {
+            "source": "artstation",
+            "url": "https://cdna.artstation.com/p/assets/images/images/062/534/284/large/antonio-j-manzanedo-demonio-manzanedo-final-6.jpg",
+            "artist": "https://www.artstation.com/typhonart",
+            "license": "n/a",
+            "class": "demon",
+            "keywords": [],
+            "watermark": true,
+            "fill": "none"
+        },
+        {
+            "source": "artstation",
+            "url": "https://cdnb.artstation.com/p/assets/images/images/030/759/675/large/kevin-cassidy-demonolith-keyshot-002-crop-4x5.jpg",
+            "artist": "https://www.artstation.com/kevincassidy",
+            "license": "n/a",
+            "class": "demon",
+            "keywords": [],
+            "watermark": false,
+            "fill": "none"
+        },
+        {
+            "source": "artstation",
+            "url": "https://cdna.artstation.com/p/assets/images/images/030/759/708/large/kevin-cassidy-demonolith-keyshot-004-cropped.jpg",
+            "artist": "https://www.artstation.com/kevincassidy",
+            "license": "n/a",
+            "class": "demon",
+            "keywords": [],
+            "watermark": false,
+            "fill": "none"
+        },
+        {
+            "source": "artstation",
+            "url": "https://cdna.artstation.com/p/assets/images/images/066/621/930/large/b-r-o-d-a-94-sem-titulo-1.jpg",
+            "artist": "https://www.artstation.com/drawingsbroda",
+            "license": "n/a",
+            "class": "sword",
+            "keywords": [],
+            "watermark": true,
+            "fill": "none"
+        },
+        {
+            "source": "artstation",
+            "url": "https://cdna.artstation.com/p/assets/images/images/047/215/690/large/varcan-rex-anglea.jpg",
+            "artist": "https://www.artstation.com/varcanrex",
+            "license": "n/a",
+            "class": "sword",
+            "keywords": [],
+            "watermark": false,
+            "fill": "none"
+        },
+        {
+            "source": "artstation",
+            "url": "https://cdna.artstation.com/p/assets/images/images/007/113/282/large/kai-s-flame-sword-game-of-thrones.jpg",
+            "artist": "https://www.artstation.com/krypto_3",
+            "license": "n/a",
+            "class": "sword",
+            "keywords": [],
+            "watermark": false,
+            "fill": "none"
+        },
+        {
+            "source": "artstation",
+            "url": "https://cdnb.artstation.com/p/assets/images/images/058/909/281/4k/brx-scheer-render-3-full-flame.jpg",
+            "artist": "https://www.artstation.com/bradscheer",
+            "license": "n/a",
+            "class": "sword",
+            "keywords": [],
+            "watermark": false,
+            "fill": "none"
+        },
+        {
+            "source": "artstation",
+            "url": "https://cdnb.artstation.com/p/assets/images/images/038/402/197/large/yury-voronov-imp.jpg",
+            "artist": "https://www.artstation.com/merlinart",
+            "license": "n/a",
+            "class": "imp",
+            "keywords": [],
+            "watermark": true,
+            "fill": "none"
+        },
+        {
+            "source": "artstation",
+            "url": "https://cdna.artstation.com/p/assets/images/images/002/706/362/large/dariia-anfalova-portfolio-janus-02.jpg",
+            "artist": "https://www.artstation.com/d_anfalova",
+            "license": "n/a",
+            "class": "imp",
+            "keywords": [],
+            "watermark": true,
+            "fill": "none"
+        },
+        {
+            "source": "artstation",
+            "url": "https://cdna.artstation.com/p/assets/images/images/063/269/828/large/tomasz-ryger-zarnik-min.jpg",
+            "artist": "https://www.artstation.com/tomek8401",
+            "license": "n/a",
+            "class": "imp",
+            "keywords": [],
+            "watermark": false,
+            "fill": "none"
+        },
+        {
+            "source": "artstation",
+            "url": "https://cdnb.artstation.com/p/assets/images/images/004/858/417/large/oleg-wasiliev-2-hell.jpg",
+            "artist": "https://www.artstation.com/0pex",
+            "license": "n/a",
+            "class": "imp",
+            "keywords": [],
+            "watermark": false,
+            "fill": "none"
+        }
+    ]
+}
